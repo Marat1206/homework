@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.banner {
+    background-image: url(../../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 388px;
+    margin-bottom: 40px;
+}
+
+.background {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+    padding-top: 125px;
+}
+
+.paragraph {
+    margin-bottom: 46px;
+    margin-top: 46px;
+}
+
+.paragraph-sec {
+    color: var(--paragraph-color);
+    margin-bottom: 80px;
+}
+
+.block .block-wrapper a {
+    text-decoration: none;
+    color: #325d72;
+}
+
+h2 {
+    margin-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.paragraph-last {
+    color: var(--paragraph-color);
+    margin-bottom: 70px;
+}
