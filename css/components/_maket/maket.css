@@ -1,12 +1,14 @@
 body {
     font-family: sans-serif;
+    margin: 0;
 }
 
 .banner {
-    background-image: url(../../images/banner.png);
+    justify-content: center;
+    background-image: url(../../../images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 388px;
+    padding: 154px 0;
     margin-bottom: 40px;
 }
 
@@ -15,7 +17,6 @@ body {
     justify-content: center;
     color: white;
     font-size: 50px;
-    padding-top: 125px;
 }
 
 .paragraph {
@@ -28,8 +29,7 @@ body {
     margin-bottom: 80px;
 }
 
-.block .block-wrapper a {
-    text-decoration: none;
+.block .block-wrapper  {
     color: #325d72;
 }
 
