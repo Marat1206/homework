@@ -1,0 +1,19 @@
+@media (max-width: 1024px) {
+    .block .block-wrapper {
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 767px) {
+.block .block-wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.block .block-wrapper div {
+    width: 50%;
+}
+
+}

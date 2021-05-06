@@ -1,0 +1,23 @@
+.paragraph {
+    margin-bottom: 46px;
+    margin-top: 46px;
+}
+
+.paragraph-sec {
+    color: var(--paragraph-color);
+    margin-bottom: 80px;
+}
+
+.block .block-wrapper  {
+    color: #325d72;
+}
+
+h2 {
+    margin-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.paragraph-last {
+    color: var(--paragraph-color);
+    margin-bottom: 70px;
+}

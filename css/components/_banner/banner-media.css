@@ -1,0 +1,18 @@
+@media (max-width: 1024px) {
+    .banner .banner-wrapper {
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .banner .banner-wrapper   {
+   display: flex;
+   justify-content: center;
+ }
+
+ .banner .banner-wrapper .background {
+     width: 50%;
+     flex-wrap: wrap;
+ }
+
+}
